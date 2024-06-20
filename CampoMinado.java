@@ -2,6 +2,12 @@ import java.awt.Dimension;
 import javax.swing.JFrame;
 import java.awt.BorderLayout;
 
+/*
+ * Nome: Wesley Parastchuk
+ * GRR20235617
+ * LPOO - 2024/01
+ */
+
 public class CampoMinado extends JFrame {
     static enum DifficultyLevel {
         EASY, MEDIUM, HARD
